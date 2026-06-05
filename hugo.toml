@@ -1,0 +1,16 @@
+
+baseURL = "/"
+languageCode = "en-us"
+title = "MintWave Startup Hub"
+theme = "custom"
+
+[params]
+  description = "Growth tactics for early-stage startups: finding PMF, first 100 customers, and scaling outbound."
+  author = "Editorial Team"
+
+[markup.goldmark.renderer]
+  unsafe = true
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
